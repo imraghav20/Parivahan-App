@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380903209935",
+    "project_id": "driver-app-1763a",
+    "storage_bucket": "driver-app-1763a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380903209935:android:2733317d2b0751794230ba",
+        "android_client_info": {
+          "package_name": "com.parivahan.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380903209935-fcvmme67i79kok1nrl8d57i20oh5kk7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgTd72o5vjIN75GIFVeSUwyzA5QPGKJA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380903209935-fcvmme67i79kok1nrl8d57i20oh5kk7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
